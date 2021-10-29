@@ -20,10 +20,10 @@ Facebook Fallowers and Public IDs Cloning Commands
 * ```pkg insatall git ```
 * ```pkg install python2 ```
 * ```pip2 install requests ```
-* ```pip2 install bs4 mechanize  ```
+* ```pip2 install bs4 mechanize```
 * ```cd Followers_clone```
 * ```python2 extract_file.py```
-
+* ```
 ### [+] Installation :
 # Then Use in This Commands 
 * ```pkg update```
